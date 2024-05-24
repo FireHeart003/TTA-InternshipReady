@@ -6,9 +6,12 @@
 - We will be focusing on the various issues available in the official repo and reflecting the changes made in this branch 
 
 ### Licensing
-No license was found for the project I am contributing to, but the MIT License allows others to do almost anything with your project, like making and distributing closed-source versions. This makes it suitable for most open-source projects.
+- No license was found for the project I am contributing to, but the MIT License allows others to do almost anything with your project, like making and distributing closed-source versions. 
+- This makes it suitable for most open-source projects.
 
 ### Hackathon Website Template
-Here is the github repository my team will be contributing to. We will mainly focus on resolving the issues found on the repository in the link below: https://github.com/acm-ucr/hackathon-website
+- Here is the github repository my team will be contributing to. 
+- We will mainly focus on resolving the issues found on the repository in the link below: 
+- https://github.com/acm-ucr/hackathon-website
 
 
